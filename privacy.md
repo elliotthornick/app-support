@@ -14,7 +14,7 @@ These apps have no user accounts and the developer runs no servers that receive 
 - Photos and videos you record are saved to your device's Photos library. They are never sent to the developer.
 - The app uses the camera, microphone, and Bluetooth (for controller input) only to provide its features, and only with your permission.
 - If you use a share or upload feature (for example, posting a video to YouTube or TikTok), the file goes directly from your device to that service under your own account, only when you tap to share it. Those services' own privacy policies apply.
-- Promo codes, if you enter one, are stored locally on your device. The app may check a publicly hosted list to confirm a code is still active; no personal information is sent in that check.
+- If you redeem a promo code, redemption is handled by Apple in the App Store; the app only learns whether the unlock is active.
 
 ### RPR: Roll Punch Repeat and Gassy Capys (games)
 - Game progress and settings are stored locally on your device.
